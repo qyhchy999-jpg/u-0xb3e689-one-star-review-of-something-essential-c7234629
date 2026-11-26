@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/u-0xb3e689-one-star-review-of-something-essential-c7234629/qyhchy999-jpg/u-0xb3e689-one-star-review-of-something-essential-c7234629/rank.svg)](https://make.fun/bounty/u-0xb3e689-one-star-review-of-something-essential-c7234629)
 [![reward](https://make.fun/badge/u-0xb3e689-one-star-review-of-something-essential-c7234629/qyhchy999-jpg/u-0xb3e689-one-star-review-of-something-essential-c7234629/reward.svg)](https://make.fun/bounty/u-0xb3e689-one-star-review-of-something-essential-c7234629)
 
-One line — a deadpan one-star review of an everyday essential: "Gravity. Worked fine for 30 years, then dropped my phone in the toilet. No refund, no apology, still pulls everything down. Would not recommend." The joke is the consumer-complaint format applied to a force of nature: thirty years of reliable service, one catastrophic failure, and a customer who still expects a refund from physics.
+One line — a deadpan one-star review of an everyday essential: "Sleep. Eight hours a night, every night, and I still wake up tired. Crashes without warning, no refund, no update. One star, would still use." The joke is the consumer-complaint format applied to sleep as if it were software: eight hours of nightly uptime, still waking up tired, crashing without warning — and the reviewer still renews the subscription.
 
 ## Entry
 
@@ -22,5 +22,5 @@ Then check the output is UTF-8 text of 1 to 160 characters, and run it twice to 
 
 MIT — see [LICENSE](LICENSE).
 
-<!-- Second pass: the review is funnier because gravity can never reply. -->
-<!-- Third pass: deadpan means no exclamation — the complaint is filed in earnest. -->
+<!-- Second pass: sleep, not gravity — a review of sleep can never be answered by the vendor. -->
+<!-- Third pass: "would still use" is the honest kicker — the one-star rating is filed in earnest. -->
